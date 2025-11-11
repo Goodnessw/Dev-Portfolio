@@ -68,19 +68,19 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email",
-      value: "your.email@example.com",
-      href: "mailto:your.email@example.com",
+      value: "goodnessw31@gmail.com",
+      href: "mailto:goodnessw31@gmail.com",
     },
     {
       icon: Phone,
       title: "Phone",
-      value: "+1 (555) 123-4567",
-      href: "tel:+15551234567",
+      value: "+2348102477822",
+      href: "tel:+2348102477822",
     },
     {
       icon: MapPin,
       title: "Location",
-      value: "San Francisco, CA",
+      value: "Lagos, Nigeria",
       href: null,
     },
   ];
